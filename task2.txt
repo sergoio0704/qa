@@ -1,0 +1,14 @@
+1) start
+2) wait for PIN
+3) 1st try
+4) 2nd try
+5) 3rd try
+6) eat card
+7) access to account
+
+
+SCENARIO
+1) 1 => 2 => 3 => 7
+2) 1 => 2 => 3 => 4 => 7
+3) 1 => 2 => 3 => 4 => 5 => 7
+4) 1 => 2 => 3 => 4 => 5 => 6
